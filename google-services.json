@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "36690816470",
+    "firebase_url": "https://sml-x-live-default-rtdb.firebaseio.com",
+    "project_id": "sml-x-live",
+    "storage_bucket": "sml-x-live.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36690816470:android:ccc6a68afb1062b2288877",
+        "android_client_info": {
+          "package_name": "Com.src"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE9H6tgOMSkdgqQgIz9MsUHritV9ZilzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
